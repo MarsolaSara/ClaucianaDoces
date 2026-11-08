@@ -92,7 +92,7 @@ clauciana-doces-e-afeto/
 └── README.md                 # Documentação
 ```
 
-**🌐 Site online:** _adicionar aqui o endereço `https://...vercel.app` depois de publicar._
+**🌐 Site online:**  `https://claucianadoces-orcin.vercel.app/` 
 
 ## 🤍 Sobre as encomendas e as imagens
 
