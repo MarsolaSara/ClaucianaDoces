@@ -1,0 +1,15 @@
+# Arquivos do sistema operacional e do editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários e cópias locais
+*.log
+*.tmp
+*.bak
+*.zip
+node_modules/
+.vercel/
+.env
+.env.*
